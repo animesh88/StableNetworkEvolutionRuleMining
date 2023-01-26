@@ -1,0 +1,7 @@
+1. Assuming we have Network based sequential databases (system network databases) for N versions.
+2. Use SNERMiningMinStab.java with minSup-minConf-minStab: output = Collection of NRs + SNER (NSR) + NetworkRuleCount for each state
+3. Use SummaryNetworkStableRules.java for NSR (in entityName format) and its count
+4. Use MergeUniqueNetworkEvolutionRules.java for NER
+5. Use SummaryEvolutionNetworkRules.java for NER (in entityName format) and its count
+
+Step 4 and 5 can be in any sequence
