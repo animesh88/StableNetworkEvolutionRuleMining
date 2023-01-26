@@ -1,4 +1,4 @@
-# StableNetworkEvolutionRuleMining
+# Stable Network Evolution Rule Mining
 
 For more details, please refer to the following links, videos, and publications
 https://sites.google.com/site/animeshchaturvedi07/research/phdresearch
