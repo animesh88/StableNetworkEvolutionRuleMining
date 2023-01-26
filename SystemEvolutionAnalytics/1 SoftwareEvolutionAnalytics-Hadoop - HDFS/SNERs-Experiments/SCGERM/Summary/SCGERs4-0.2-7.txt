@@ -1,0 +1,6 @@
+create ==> convert
+readAll ==> readFully
+
+Antecedent item count:	2
+Consequent item count:	2
+Total items:	4

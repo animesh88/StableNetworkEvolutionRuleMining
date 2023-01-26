@@ -1,0 +1,6 @@
+rue ==> Short
+sin ==> Drama
+
+Antecedent item count:	2
+Consequent item count:	2
+Total items:	4

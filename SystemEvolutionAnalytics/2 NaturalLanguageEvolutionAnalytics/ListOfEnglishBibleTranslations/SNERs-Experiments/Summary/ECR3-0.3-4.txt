@@ -1,0 +1,7 @@
+English ==> Text
+English, Modern ==> Text
+Modern ==> Text
+
+Antecedent item count:	2
+Consequent item count:	1
+Total items:	3

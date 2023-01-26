@@ -1,0 +1,8 @@
+	checkAccess ==> getDelegationToken
+checkAccess getDelegationToken	1
+	close ==> getRemoteAddressString
+close getRemoteAddressString	1
+	create ==> convert
+convert create	1
+	readAll ==> readFully
+readAll readFully	1

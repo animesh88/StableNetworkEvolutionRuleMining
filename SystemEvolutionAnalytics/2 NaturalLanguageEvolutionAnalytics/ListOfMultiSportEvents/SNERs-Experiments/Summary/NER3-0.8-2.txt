@@ -1,0 +1,12 @@
+Sports, Festival ==> Provinces
+Games, World ==> International
+Sports ==> Provinces
+World ==> International
+Asian ==> Regional
+Festival ==> Provinces
+Games, Asian ==> Regional
+Games ==> Regional
+
+Antecedent item count:	5
+Consequent item count:	3
+Total items:	8

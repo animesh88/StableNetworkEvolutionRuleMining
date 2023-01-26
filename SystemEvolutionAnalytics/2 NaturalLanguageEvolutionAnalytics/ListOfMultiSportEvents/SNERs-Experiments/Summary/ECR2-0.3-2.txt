@@ -1,0 +1,18 @@
+Games ==> Regional
+Games ==> International
+Korean ==> National
+World ==> International
+Games, World ==> International
+Games, Asian ==> Regional
+Asian ==> Regional
+Games, Pacific ==> Regional
+Pacific ==> Regional
+Sports ==> Provinces
+Sports, Festival ==> Provinces
+Festival ==> Provinces
+Games, American ==> Regional
+American ==> Regional
+
+Antecedent item count:	8
+Consequent item count:	4
+Total items:	12

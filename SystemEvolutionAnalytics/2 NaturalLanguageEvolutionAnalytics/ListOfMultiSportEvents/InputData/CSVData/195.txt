@@ -1,0 +1,8 @@
+Asian Games,Regional,
+Mediterranean Games,Regional,
+Pan American Games,Regional,
+Pan Arab Games,Regional,
+Gyeonggi-do Sports Festival,Provinces,
+CANUSA Games,Regional,
+Southeast Asian Games,Regional,
+Universiade,International,

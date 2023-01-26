@@ -1,0 +1,7 @@
+CARRIAGE ==> 14911
+ASSORTED COLOUR LIZARD SUCTION HOOK ==> 17841
+BLUE/CREAM STRIPE CUSHION COVER ==> 17841
+
+Antecedent item count:	3
+Consequent item count:	2
+Total items:	5

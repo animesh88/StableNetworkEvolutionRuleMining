@@ -1,0 +1,6 @@
+SELL Student Games,International,
+Deaflympics,International,
+Tailteann Games,International,
+Central American and Caribbean Games,Regional,
+Spartakiad,International,
+Balkan Games,Regional,

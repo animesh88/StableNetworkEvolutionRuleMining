@@ -1,0 +1,6 @@
+digraph readAllreadFully{
+readAll	->	readFully [style = bold];
+
+readFully [style = bold];
+readAll [style = bold];
+}

@@ -1,0 +1,194 @@
+	4 & 0.4 & 4	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	3	37
+	4 & 0.4 & 5	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	3	37
+	4 & 0.6 & 5	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	1	19
+	4 & 0.8 & 6	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	0	6
+	3 & 0.8 & 6	
+	3 & 1.0 & 6	
+	4 & 0.2 & 6	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	3	37
+	4 & 0.2 & 7	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	3	37
+	4 & 0.8 & 5	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	0	6
+	4 & 0.8 & 4	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	0	6
+	4 & 0.6 & 4	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	1	19
+	4 & 0.6 & 3	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	0	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	1	19
+	4 & 0.4 & 3	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	3	37
+	4 & 0.4 & 2	
+hadoop-hdfs-2.2.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.3.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.4.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.4.1_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.5.0_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.1_sequentialRuleFile.txt	2	
+hadoop-hdfs-2.5.2_sequentialRuleFile.txt	1	
+hadoop-hdfs-2.6.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.2_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.3_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.6.4_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.0_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.1_sequentialRuleFile.txt	3	
+hadoop-hdfs-2.7.2_sequentialRuleFile.txt	3	37

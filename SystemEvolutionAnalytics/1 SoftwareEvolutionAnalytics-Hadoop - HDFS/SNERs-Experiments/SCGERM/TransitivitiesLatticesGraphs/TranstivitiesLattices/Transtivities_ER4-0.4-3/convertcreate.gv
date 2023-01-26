@@ -1,0 +1,6 @@
+digraph convertcreate{
+create	->	convert [style = bold];
+
+create [style = bold];
+convert [style = bold];
+}

@@ -1,0 +1,11 @@
+rue ==> Short
+din ==> Short
+passe ==> Short
+sin ==> Drama
+mar ==> Short
+terror ==> Horror
+dire ==> Short
+
+Antecedent item count:	7
+Consequent item count:	3
+Total items:	10

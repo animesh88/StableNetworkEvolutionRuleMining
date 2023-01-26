@@ -1,0 +1,29 @@
+English ==> Vulgate
+English ==> Masoretic
+English, Modern ==> Masoretic
+English ==> Masoretic, Text
+English, Modern ==> Masoretic, Text
+English ==> Text
+English, Modern ==> Text
+English ==> Text, Greek
+English, Modern ==> Text, Greek
+English ==> Greek
+English, Modern ==> Greek
+English ==> New
+English, Modern ==> New
+English ==> New, Testament
+English, Modern ==> New, Testament
+English ==> Testament
+English, Modern ==> Testament
+Modern ==> Masoretic
+Modern ==> Masoretic, Text
+Modern ==> Text
+Modern ==> Text, Greek
+Modern ==> Greek
+Modern ==> New
+Modern ==> New, Testament
+Modern ==> Testament
+
+Antecedent item count:	2
+Consequent item count:	6
+Total items:	8

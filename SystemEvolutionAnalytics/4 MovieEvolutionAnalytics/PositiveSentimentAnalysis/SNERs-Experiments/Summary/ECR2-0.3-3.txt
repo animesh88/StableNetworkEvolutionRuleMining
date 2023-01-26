@@ -1,0 +1,25 @@
+grand ==> Short
+passion ==> Short
+premier ==> Short
+miracle ==> Short
+fond ==> Short
+monumental ==> Short
+fine ==> Short
+pardon ==> Short
+fond ==> Documentary
+monumental ==> Documentary
+premier ==> Comedy
+fine ==> Drama
+cure ==> Comedy
+angel ==> Drama
+popular ==> Short
+popular ==> Documentary
+humor ==> Comedy
+grand ==> Music
+regard ==> Documentary
+idol ==> Adult
+best ==> Adult
+
+Antecedent item count:	15
+Consequent item count:	6
+Total items:	21

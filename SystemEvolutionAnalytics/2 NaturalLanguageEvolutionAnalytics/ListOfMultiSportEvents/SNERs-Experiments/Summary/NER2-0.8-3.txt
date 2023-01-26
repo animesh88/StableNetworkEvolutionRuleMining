@@ -1,0 +1,41 @@
+Games, Central ==> Regional
+Korean, Para ==> National
+Korean, Sports, Festival ==> National
+Pacific ==> Regional
+Pacific, Mini ==> Regional
+Games, Youth, Asian ==> Regional
+Sports ==> National
+Festival, Gyeongsangbukdo ==> Provinces
+Games ==> International
+American ==> Regional
+Mini ==> Regional
+Games ==> Regional
+Games, Pacific ==> Regional
+Youth, Asian ==> Regional
+Korean, Sports ==> National
+Games, Korean, Para ==> National
+Gyeongsangbukdo ==> Provinces
+Festival ==> National
+Sports, Festival ==> Provinces
+Games, Pan ==> Regional
+Sports ==> Provinces
+Sports, Festival, Gyeongsangbukdo ==> Provinces
+Games, American ==> Regional
+Games, Mini ==> Regional
+Korean, Festival ==> National
+Games, Korean ==> National
+Pan ==> Regional
+Festival ==> Provinces
+Korean ==> National
+Games, World ==> International
+Sports, Festival ==> National
+Central ==> Regional
+Games, Pacific, Mini ==> Regional
+Sports, Gyeongsangbukdo ==> Provinces
+World ==> International
+Asian ==> Regional
+Games, Asian ==> Regional
+
+Antecedent item count:	14
+Consequent item count:	4
+Total items:	18

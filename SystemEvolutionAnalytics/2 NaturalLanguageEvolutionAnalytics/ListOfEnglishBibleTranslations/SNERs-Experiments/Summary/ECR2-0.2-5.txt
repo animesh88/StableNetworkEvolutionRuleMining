@@ -1,0 +1,4 @@
+
+Antecedent item count:	0
+Consequent item count:	0
+Total items:	0

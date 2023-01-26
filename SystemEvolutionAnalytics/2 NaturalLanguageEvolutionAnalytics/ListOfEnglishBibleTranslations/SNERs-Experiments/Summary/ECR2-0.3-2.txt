@@ -1,0 +1,32 @@
+English ==> Vulgate
+English ==> Masoretic
+English, Early ==> Masoretic
+English, Early, Modern ==> Masoretic
+English, Modern ==> Masoretic
+English ==> Masoretic, Text
+English, Early ==> Masoretic, Text
+English, Early, Modern ==> Masoretic, Text
+English, Modern ==> Masoretic, Text
+English ==> Text
+English, Early ==> Text
+English, Early, Modern ==> Text
+English, Modern ==> Text
+English ==> Text, Greek
+English, Modern ==> Text, Greek
+English ==> Greek
+English, Modern ==> Greek
+Early ==> Masoretic
+Early, Modern ==> Masoretic
+Early ==> Masoretic, Text
+Early, Modern ==> Masoretic, Text
+Early ==> Text
+Early, Modern ==> Text
+Modern ==> Masoretic
+Modern ==> Masoretic, Text
+Modern ==> Text
+Modern ==> Text, Greek
+Modern ==> Greek
+
+Antecedent item count:	3
+Consequent item count:	4
+Total items:	7

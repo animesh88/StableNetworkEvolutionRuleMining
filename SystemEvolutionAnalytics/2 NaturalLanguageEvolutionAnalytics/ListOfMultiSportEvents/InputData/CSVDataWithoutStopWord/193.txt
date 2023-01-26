@@ -1,0 +1,7 @@
+Commonwealth Games,International,
+Maccabiah Games,International,
+Korean National Sports Festival,National,
+Korean National Winter Sports Festival,National,
+People's Olympiad,International,
+Bolivarian Games,Regional,
+Lithuanian National Olympics,International,

@@ -1,0 +1,10 @@
+English ==> Vulgate
+English ==> Text
+English, Modern ==> Text
+English, Modern ==> Greek
+Modern ==> Text
+Modern ==> Greek
+
+Antecedent item count:	2
+Consequent item count:	3
+Total items:	5

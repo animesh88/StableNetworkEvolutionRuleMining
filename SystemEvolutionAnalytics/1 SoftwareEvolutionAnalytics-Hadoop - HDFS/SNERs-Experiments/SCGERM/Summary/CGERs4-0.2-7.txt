@@ -1,0 +1,9 @@
+close ==> getRemoteAddressString
+readAll ==> readFully
+checkAccess ==> getDelegationToken
+create ==> convert
+create ==> get
+
+Antecedent item count:	4
+Consequent item count:	5
+Total items:	9

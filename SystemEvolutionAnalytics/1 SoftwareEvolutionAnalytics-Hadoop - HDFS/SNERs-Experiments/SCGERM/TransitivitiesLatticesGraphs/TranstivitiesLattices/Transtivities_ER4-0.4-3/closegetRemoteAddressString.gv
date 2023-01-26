@@ -1,0 +1,6 @@
+digraph closegetRemoteAddressString{
+close	->	getRemoteAddressString [style = bold];
+
+getRemoteAddressString [style = bold];
+close [style = bold];
+}

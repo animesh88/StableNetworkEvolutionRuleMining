@@ -1,0 +1,8 @@
+premier ==> Short
+fond ==> Short
+angel ==> Drama
+grand ==> Music
+
+Antecedent item count:	4
+Consequent item count:	3
+Total items:	7

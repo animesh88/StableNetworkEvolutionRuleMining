@@ -1,0 +1,14 @@
+rue ==> Short
+terrible ==> Short
+rue ==> Documentary
+pain ==> Short
+vent ==> Short
+passe ==> Short
+sin ==> Drama
+brat ==> Drama
+terror ==> Horror
+perverse ==> Adult
+
+Antecedent item count:	9
+Consequent item count:	5
+Total items:	14

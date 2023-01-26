@@ -1,0 +1,8 @@
+rue ==> Short
+terrible ==> Short
+passe ==> Short
+sin ==> Drama
+
+Antecedent item count:	4
+Consequent item count:	2
+Total items:	6

@@ -1,0 +1,8 @@
+digraph checkAccess_getDelegationToken{
+checkAccess	->	checkAccess_getDelegationToken [style = bold];
+getDelegationToken	->	checkAccess_getDelegationToken [style = bold];
+
+checkAccess_getDelegationToken [style = bold];
+getDelegationToken [style = bold];
+checkAccess [style = bold];
+}

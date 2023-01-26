@@ -1,0 +1,7 @@
+create ==> convert
+readAll ==> readFully
+checkAccess ==> getDelegationToken
+
+Antecedent item count:	3
+Consequent item count:	3
+Total items:	6

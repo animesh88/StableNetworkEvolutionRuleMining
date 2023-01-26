@@ -1,0 +1,8 @@
+premier ==> Short
+fond ==> Short
+fine ==> Short
+humor ==> Comedy
+
+Antecedent item count:	4
+Consequent item count:	2
+Total items:	6

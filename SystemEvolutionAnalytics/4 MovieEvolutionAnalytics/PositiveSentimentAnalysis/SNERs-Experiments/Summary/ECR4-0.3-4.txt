@@ -1,0 +1,5 @@
+grand ==> Music
+
+Antecedent item count:	1
+Consequent item count:	1
+Total items:	2

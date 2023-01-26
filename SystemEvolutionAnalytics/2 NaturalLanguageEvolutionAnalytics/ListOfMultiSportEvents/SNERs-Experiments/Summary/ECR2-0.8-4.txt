@@ -1,0 +1,7 @@
+World ==> International
+Games, Asian ==> Regional
+Asian ==> Regional
+
+Antecedent item count:	3
+Consequent item count:	2
+Total items:	5

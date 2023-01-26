@@ -1,0 +1,35 @@
+defile ==> Short
+rue ==> Short
+die ==> Short
+terrible ==> Short
+rue ==> Documentary
+pain ==> Short
+din ==> Short
+suicide ==> Short
+infernal ==> Short
+invisible ==> Short
+fume ==> Short
+fatal ==> Short
+vent ==> Short
+din ==> Documentary
+fume ==> Comedy
+passe ==> Short
+dents ==> Comedy
+sin ==> Drama
+macabre ==> Short
+rue ==> Drama
+pan ==> Drama
+hate ==> Drama
+hang ==> Drama
+desert ==> Short
+mar ==> Short
+vent ==> Drama
+brat ==> Drama
+terror ==> Horror
+perverse ==> Adult
+cruel ==> Short
+dire ==> Short
+
+Antecedent item count:	26
+Consequent item count:	6
+Total items:	32
