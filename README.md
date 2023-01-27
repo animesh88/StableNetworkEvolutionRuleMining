@@ -1,10 +1,12 @@
 # Stable Network Evolution Rule Mining
 
+Code developed using the Java and NetBeans (IDE).
+
 For more details, please refer to the following links, videos, and publications
 https://sites.google.com/site/animeshchaturvedi07/research/phdresearch
 
 <b>Please cite:</b>
-1. Animesh Chaturvedi, Aruna Tiwari, and Nicolas Spyratos. <b>“minStab: Stable Network Evolution Rule Mining for System Changeability Analysis”</b>. <i>IEEE Transactions on Emerging Topics in Computation Intelligence, Vol 5.2 (April 2019).<\i> DOI: 10.1109/TETCI.2019.2892734. <a href="https://www.researchgate.net/profile/Animesh-Chaturvedi/publication/332164684_minStab_Stable_Network_Evolution_Rule_Mining_for_System_Changeability_Analysis/links/5cb820ec4585156cd79fb353/minStab-Stable-Network-Evolution-Rule-Mining-for-System-Changeability-Analysis.pdf" target="_blank"> <b>PDF</b> </a>
+1. Animesh Chaturvedi, Aruna Tiwari, and Nicolas Spyratos. <b>“minStab: Stable Network Evolution Rule Mining for System Changeability Analysis”</b>. <i>IEEE Transactions on Emerging Topics in Computation Intelligence, Vol 5.2 (April 2019).</i> DOI: 10.1109/TETCI.2019.2892734. <a href="https://www.researchgate.net/profile/Animesh-Chaturvedi/publication/332164684_minStab_Stable_Network_Evolution_Rule_Mining_for_System_Changeability_Analysis/links/5cb820ec4585156cd79fb353/minStab-Stable-Network-Evolution-Rule-Mining-for-System-Changeability-Analysis.pdf" target="_blank"> <b>PDF</b> </a>
 
 2. Animesh Chaturvedi, Aruna Tiwari, and Nicolas Spyratos. <b>“System Network Analytics: Evolution and Stable Rules of a State Series”</b>. <i>IEEE 9th International Conference on Data Science and Advanced Analytics (DSAA), October 13-16, 2022, Shenzhen, China. IEEE, 2022. </i> <a href="https://arxiv.org/ftp/arxiv/papers/2210/2210.15965.pdf" target="_blank"> <b>PDF</b> </a>
 
